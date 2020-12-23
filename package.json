@@ -1,0 +1,24 @@
+{
+  "name": "polygon-particles",
+  "version": "1.0.0",
+  "description": "This file will render a polygon animate site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.jsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrayMatterLab/Polygon-Particles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrayMatterLab/Polygon-Particles/issues"
+  },
+  "homepage": "https://github.com/GrayMatterLab/Polygon-Particles#readme",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^6.14.10",
+    "react-particles-js": "^3.4.1"
+  }
+}
