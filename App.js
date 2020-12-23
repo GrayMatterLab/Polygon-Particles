@@ -1,12 +1,11 @@
 // Complete React Code 
 import React from 'react'; 
-import './App.css'; 
+import 'App.css'; 
 import Particles from 'react-particles-js'; 
 
 function App() { 
 return ( 
 	<div className="App"> 
-	By Ankit Bansal 
 	<Particles 
 		params={{ 
 		particles: { 
